@@ -1,0 +1,16 @@
+{
+  "name": "week20.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hono/zod-openapi": "^0.19.6",
+    "@types/express": "^5.0.2",
+    "express": "^5.1.0"
+  }
+}
